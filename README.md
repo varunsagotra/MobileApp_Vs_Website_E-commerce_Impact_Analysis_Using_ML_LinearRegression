@@ -1,4 +1,4 @@
-# MobileApp_Vs_Website_EcommerceSaleAnalysis
+# MobileApp_Vs_Website_E-commerce_Impact_Analysis
 ### Using_ML_LinearRegression
 
 `This is a Micro ML project`
