@@ -42,5 +42,5 @@ Length of Membership	62.247287
 - The company either focuses on the website to have it catch up in terms of the mobile app. Or,
 - They can focus on the mobile app, to maximise the benefits.
 
-*Next Analysis in bucket >>>
-What we could also explore is the relationship between length of membership, and the time on app or website, as the length of membership seems to be more important for yearly spend.
+## Next Analysis in bucket >>>
+`What we could also explore is the relationship between length of membership, and the time on app or website, as the length of membership seems to be more important for yearly spend`
